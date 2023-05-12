@@ -6,8 +6,3 @@ let euroToYen = function(euroValue){
 }
 //***** YOUR CODE BELOW ↓ ******///
 
-let medium = dollarToEuro (137);
-console.log(euroToYen(medium));
-
-// console.log(euroToYen(dollarToEuro (137)));
-// Otra forma de hacerlo mas optimizado
